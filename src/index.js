@@ -1,11 +1,8 @@
-import React from 'react';
+import Wrapper from './Wrapper';
 
-const Starter = () => (
-  <div>
-    <h1>React Component Boilerplate</h1>
-  </div>
-);
+const factory = () => ({
+  Name: 'Refs',
+  Wrapper
+});
 
-export const OtherComp = () => <div>Hello there!</div>;
-
-export default Starter;
+export default factory;
