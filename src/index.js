@@ -1,8 +1,6 @@
 import Wrapper from './Wrapper';
 
-const factory = () => ({
+export default {
   Name: 'Refs',
   Wrapper
-});
-
-export default factory;
+};
