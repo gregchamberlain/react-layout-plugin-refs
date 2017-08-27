@@ -46,10 +46,10 @@
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.3.0",
     "react-hot-loader": "^3.0.0-beta.6",
-    "react-layout-core": "^0.5.2",
     "react-layout-plugin-dnd": "^0.1.4",
     "react-test-renderer": "^15.4.2",
     "webpack": "^2.2.0",
+    "react-layout-core": "^0.5.2",
     "webpack-dev-server": "^2.2.0"
   },
   "peerDependencies": {
